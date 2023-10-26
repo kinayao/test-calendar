@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:test calendar - Oct 26
+X-WR-TIMEZONE:America/Winnipeg
+X-WR-CALDESC:this calendar is for testing to subscription
+BEGIN:VEVENT
+DTSTART:20231028T180000Z
+DTEND:20231028T200000Z
+DTSTAMP:20231026T150945Z
+UID:6n2g8v991fgfkgi4nl3cn95b61@google.com
+CREATED:20231026T131925Z
+DESCRIPTION:join us for the annual Windsor CC<br>PUMPKIN CARVING &amp\; DEC
+ ORATING<br><br>Bring-your-own pumpkin<br>FREE ENTRY<br>all ages event!<br>c
+ ostumes encouraged!<br>(limited carving tools available)<br>prizes for:<br>
+ most creative pumpkin<br>scariest pumpkin<br>funniest pumpkin<br>canteen wi
+ ll be open!<br><br>p.s. get your local pumpking in advance from:<br>Luke &a
+ mp\; Grant's pumpkin stand<br><br>connect link:<br><a href="https://windsor
+ cc.ca/?page_id=74">https://windsorcc.ca/?page_id=74</a>
+LAST-MODIFIED:20231026T150904Z
+LOCATION:99 Springside Dr\, Winnipeg\, MB R2M 5A7\, Canada
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Pumpkin carving & decorating
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P7D
+DESCRIPTION:This is an event reminder
+END:VALARM
+X-APPLE-STRUCTURED-LOCATION;VALUE=URI;X-APPLE-MAPKIT-HANDLE=CAESlAII2TIaEgn
+ nnyrwX+1IQBEWxnE7j0dYwCKKAQoGQ2FuYWRhEgJDQRoITWFuaXRvYmEiAk1CKg9EaXZpc2lvbi
+ BOby4gMTEyCFdpbm5pcGVnOgdSMk0gNUE3QghFbG0gUGFya1INU3ByaW5nc2lkZSBEcloCOTliE
+ Dk5IFNwcmluZ3NpZGUgRHKKAQhFbG0gUGFya4oBD1N0LiBWaXRhbCBOb3J0aCoQOTkgU3ByaW5n
+ c2lkZSBEcjIQOTkgU3ByaW5nc2lkZSBEcjITV2lubmlwZWcgTUIgUjJNIDVBNzIGQ2FuYWRhODl
+ AAFABWicKJRISCeefKvBf7UhAERbGcTuPR1jAGNkyIKSCoc/lnuKtngGQAwE=;X-APPLE-RADIU
+ S=70.58737272125711;X-APPLE-REFERENCEFRAME=1;X-TITLE="99 Springside Dr, Win
+ nipeg, MB R2M 5A7, Canada":geo:49.854490,-97.118117
+END:VEVENT
+END:VCALENDAR
